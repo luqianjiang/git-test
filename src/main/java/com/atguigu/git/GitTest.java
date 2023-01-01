@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("pull test!");
         System.out.println("ssh test!");
         System.out.println("ssh pull test!");
+        System.out.println("sourceTree test!");
     }
 }
